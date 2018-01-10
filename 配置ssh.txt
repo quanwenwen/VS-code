@@ -1,0 +1,8 @@
+$ ssh-keygen -t rsa
+回车
+复制 C盘下的.ssh pub 文件
+
+在github 头像下找到seting 
+找到ssh 进行设置
+
+
